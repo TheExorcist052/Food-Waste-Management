@@ -1,2 +1,2 @@
 # Food-Waste-Management
-Food Waste Management Site
+Use The Food_for_all as backend and app.jsx as the main file
